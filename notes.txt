@@ -1,0 +1,3 @@
+//58 mins: we use express-handlebars as template engine to render template
+//101 mins: we only use one or either , compleate serever side that
+uses template engines or json api that use react /vue/angular for frontend
